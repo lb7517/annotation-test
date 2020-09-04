@@ -20,3 +20,5 @@ com.lb.annotation.pay包中
 
     * 使用ProceedingJoinPoint接受参数，并且解析方法中的注解
     *  切面的实现方式有两种: 方式一通过@Pointcut加注解类路径@annotation()实现；方式二 通过 @annotation(形参test)方式现实
+
+[工程地址](https://github.com/lb7517/annotation-test.git)
