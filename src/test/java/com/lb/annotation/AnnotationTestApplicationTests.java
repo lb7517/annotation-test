@@ -10,8 +10,6 @@ class AnnotationTestApplicationTests {
 
     @Test
     void contextLoads() {
-        log.info("1111111");
-        log.info("2222");
     }
 
 }
